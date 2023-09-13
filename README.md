@@ -1,1 +1,2 @@
 # IICRN
+This repo provides the processed samples on the noisy audios of the [VoiceBank_DEMAND noisy testet](https://datashare.ed.ac.uk/handle/10283/2791), which are enhanced by our IICRN model from the manuscript "An Intra- and Inter-frame Sequence Modeling with Discrete Cosine Transform for Real-time Speech Enhancement". The source code will be available later.
